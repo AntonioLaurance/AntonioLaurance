@@ -31,38 +31,21 @@
 
 ⚡ Fun fact **The characters of Rick & Morty are inspired in the protagonists of Back to the Future**
 
-<!--
+
 
  Also passionate about: 
 
- <a href="https://miscompetenciastec21.tec.mx/elumen/portfolio/kOEAKeZf4EJh8dvd">
-    <img src="https://img.shields.io/badge/⭐-Astronomy-black?style=for-the-badge" />
-</a>
-<a href="https://miscompetenciastec21.tec.mx/elumen/portfolio/kOEAKeZf4EJh8dvd">
-    <img src="https://img.shields.io/badge/📐-Math-yellow?style=for-the-badge" />
-</a>
-<a href="https://miscompetenciastec21.tec.mx/elumen/portfolio/kOEAKeZf4EJh8dvd">
-    <img src="https://img.shields.io/badge/🧲-Physics-gray?style=for-the-badge" />
-</a>
-<a href="https://miscompetenciastec21.tec.mx/elumen/portfolio/kOEAKeZf4EJh8dvd">
-    <img src="https://img.shields.io/badge/🧪-Chemestry-acd8f2?style=for-the-badge" />
-</a>
+<img src="https://img.shields.io/badge/⭐-Astronomy-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📐-Math-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🧲-Physics-e4e4e4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🧪-Chemestry-acd8f2?style=for-the-badge" />
 
 <p></p>
 
-<a href="https://miscompetenciastec21.tec.mx/elumen/portfolio/kOEAKeZf4EJh8dvd">
-    <img src="https://img.shields.io/badge/🏐-Volleyball-faa967?style=for-the-badge" />
-</a>
-<a href="https://miscompetenciastec21.tec.mx/elumen/portfolio/kOEAKeZf4EJh8dvd">
-    <img src="https://img.shields.io/badge/🧠-Psychology-acd8f2?style=for-the-badge" />
-</a>
-<a href="https://miscompetenciastec21.tec.mx/elumen/portfolio/kOEAKeZf4EJh8dvd">
-    <img src="https://img.shields.io/badge/💰-Economy-bce398?style=for-the-badge" />
-</a>
-<a href="https://miscompetenciastec21.tec.mx/elumen/portfolio/kOEAKeZf4EJh8dvd">
-    <img src="https://img.shields.io/badge/⚖️-Law-caa27d?style=for-the-badge" />
-</a>
--->
+<img src="https://img.shields.io/badge/🏐-Volleyball-faa967?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🧠-Psychology-pink?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💰-Economy-bce398?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚖️-Law-caa27d?style=for-the-badge" />
   
  </div>
  
