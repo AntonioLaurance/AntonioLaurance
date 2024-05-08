@@ -9,9 +9,11 @@
   <a href="mailto:richary7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+    
   <a href="https://replit.com/@AntonioLaurance">
     <img src="https://img.shields.io/badge/Replit-142e54?style=for-the-badge&logo=replit&logoColor=red" />
   </a>
+    
   <a href="https://miscompetenciastec21.tec.mx/elumen/portfolio/kOEAKeZf4EJh8dvd">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=canvas&logoColor=yellow" />
   </a>
@@ -29,8 +31,41 @@
 
 ⚡ Fun fact **The characters of Rick & Morty are inspired in the protagonists of Back to the Future**
 
- </div>
+<!--
 
+ Also passionate about: 
+
+ <a href="https://miscompetenciastec21.tec.mx/elumen/portfolio/kOEAKeZf4EJh8dvd">
+    <img src="https://img.shields.io/badge/⭐-Astronomy-black?style=for-the-badge" />
+</a>
+<a href="https://miscompetenciastec21.tec.mx/elumen/portfolio/kOEAKeZf4EJh8dvd">
+    <img src="https://img.shields.io/badge/📐-Math-yellow?style=for-the-badge" />
+</a>
+<a href="https://miscompetenciastec21.tec.mx/elumen/portfolio/kOEAKeZf4EJh8dvd">
+    <img src="https://img.shields.io/badge/🧲-Physics-gray?style=for-the-badge" />
+</a>
+<a href="https://miscompetenciastec21.tec.mx/elumen/portfolio/kOEAKeZf4EJh8dvd">
+    <img src="https://img.shields.io/badge/🧪-Chemestry-acd8f2?style=for-the-badge" />
+</a>
+
+<p></p>
+
+<a href="https://miscompetenciastec21.tec.mx/elumen/portfolio/kOEAKeZf4EJh8dvd">
+    <img src="https://img.shields.io/badge/🏐-Volleyball-faa967?style=for-the-badge" />
+</a>
+<a href="https://miscompetenciastec21.tec.mx/elumen/portfolio/kOEAKeZf4EJh8dvd">
+    <img src="https://img.shields.io/badge/🧠-Psychology-acd8f2?style=for-the-badge" />
+</a>
+<a href="https://miscompetenciastec21.tec.mx/elumen/portfolio/kOEAKeZf4EJh8dvd">
+    <img src="https://img.shields.io/badge/💰-Economy-bce398?style=for-the-badge" />
+</a>
+<a href="https://miscompetenciastec21.tec.mx/elumen/portfolio/kOEAKeZf4EJh8dvd">
+    <img src="https://img.shields.io/badge/⚖️-Law-caa27d?style=for-the-badge" />
+</a>
+-->
+  
+ </div>
+ 
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
