@@ -5,6 +5,17 @@
 </h1>
 
 <h3 align="center">A passionate software developer from Mexico 🇲🇽</h3>
+<div align="center"> 
+  <a href="mailto:richary7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://replit.com/@AntonioLaurance">
+    <img src="https://img.shields.io/badge/Replit-142e54?style=for-the-badge&logo=replit&logoColor=red" />
+  </a>
+  <a href="https://miscompetenciastec21.tec.mx/elumen/portfolio/kOEAKeZf4EJh8dvd">
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=canvas&logoColor=yellow" />
+  </a>
+</div>
 
 <br/>
 
@@ -19,12 +30,6 @@
 ⚡ Fun fact **The characters of Rick & Morty are inspired in the protagonists of Back to the Future**
 
  </div>
- 
-<div align="center"> 
-  <a href="mailto:richary7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-</div>
 
  <hr/>
  
@@ -52,8 +57,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=AntonioLaurance&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=410 src="https://streak-stats.demolab.com/?user=AntonioLaurance&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=AntonioLaurance&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioLaurance&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
 </div>
