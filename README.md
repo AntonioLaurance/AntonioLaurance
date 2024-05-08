@@ -16,7 +16,7 @@
 
 💬 Ask me about **MySQL, React, Firebase... or anything [here](https://github.com/AntonioLaurance/AntonioLaurance/issues)**
 
-⚡ Fun fact **The characters of Rick & Morty are inspired in the protagonist of Back to the Future**
+⚡ Fun fact **The characters of Rick & Morty are inspired in the protagonists of Back to the Future**
 
  </div>
  
@@ -31,9 +31,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,mui,github,figma,tailwind,git,spring,flask,firebase" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,mui,github,figma,tailwind,git,spring,flask,firebase,matlab" />
     <img src="https://skillicons.dev/icons?i=html,css,typescript,python,java,c,cpp,swift,mysql,r,latex" /><br>
-    <img src="https://skillicons.dev/icons?i=django,anaconda,docker,vercel,vim,vscode,idea,pycharm,aws,azure" /><br>
+    <img src="https://skillicons.dev/icons?i=django,anaconda,docker,vercel,vim,vscode,idea,pycharm,aws,azure,fastapi" /><br>
 </div>
 
 <br/>
