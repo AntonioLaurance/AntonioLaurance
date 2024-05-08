@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AntonioLaurance.AntonioLaurance" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ricardo!👨‍💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ricardo!%20👨‍💻;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Mexico 🇲🇽</h3>
@@ -31,8 +31,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,figma,tailwind,git,r,latex" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,typescript,firebase,c,docker,java,mysql,flask.django" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,react,mui,css,vscode,github,figma,tailwind,git,r,latex,aws,azure,spring,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,python,typescript,firebase,c,cpp,docker,java,mysql,flask,django,anaconda,idea,vim,vercel" /><br>
 </div>
 
 <br/>
