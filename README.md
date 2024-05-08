@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">A passionate software developer from Mexico 🇲🇽</h3>
-<h6 align="center">"Opening possibilites and optimizing processes with a interdisciplinary perspective"</h6>
+<h6 align="center">"Opening possibilites and optimizing processes with an interdisciplinary perspective"</h6>
 
 <div align="center"> 
   <a href="mailto:richary7@gmail.com">
