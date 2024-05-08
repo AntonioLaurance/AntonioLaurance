@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">A passionate software developer from Mexico 🇲🇽</h3>
-<h6 align="center">"Opening possibilites and optimizing processes with an interdisciplinary perspective"</h6>
+<h6 align="center">"Expanding possibilites and optimizing processes with an interdisciplinary perspective"</h6>
 
 <div align="center"> 
   <a href="mailto:richary7@gmail.com">
@@ -25,15 +25,23 @@
 
 <div align="center">
  
- 🔭 I’m currently enrolled at **ITESM CCM**
- 
- 🌱 I’m currently learning **Java, SpringBoot, AWS, TypeScript, React**
+🔭 I’m currently development a project for Contact Centers at **ITESM CCM**
+  
+🌱 I’m currently learning **Java, SpringBoot, AWS, TypeScript, React**
 
- 💬 Ask me about **MySQL, React, Firebase... or anything [here](https://github.com/AntonioLaurance/AntonioLaurance/discussions)**
+💬 Ask me about **MySQL, React, Firebase... or anything [here](https://github.com/AntonioLaurance/AntonioLaurance/discussions)**
 
- 
+📱 My favorite technologies are **Tkinter, React, Firebase, Vercel, Git** 
+
+📚 I'm interested learning more about **AI, Blockchain, Quantum Computation**
 
 
+🦄 My favorite programming paradigms are 🦄
+<ul type="none">
+    <li>Structured Programming</li>
+    <li>Object Oriented Programming (OOP)</li>
+    <li>Functional Programming</li>
+</ul>
 
  Also passionate about: 
 
