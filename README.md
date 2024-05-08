@@ -27,11 +27,11 @@
  
  🔭 I’m currently enrolled at **ITESM CCM**
  
- 🌱 I’m currently learning **SpringBoot, AWS, TypeScript, React**
+ 🌱 I’m currently learning **Java, SpringBoot, AWS, TypeScript, React**
 
-💬 Ask me about **MySQL, React, Firebase... or anything [here](https://github.com/AntonioLaurance/AntonioLaurance/issues)**
+ 💬 Ask me about **MySQL, React, Firebase... or anything [here](https://github.com/AntonioLaurance/AntonioLaurance/issues)**
 
-⚡ Phase **Open posibilite**
+ 
 
 
 
