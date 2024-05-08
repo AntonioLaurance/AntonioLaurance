@@ -5,6 +5,8 @@
 </h1>
 
 <h3 align="center">A passionate software developer from Mexico 🇲🇽</h3>
+<h6 align="center">"Opening possibilites and optimizing processes with a interdisciplinary perspective"</h6>
+
 <div align="center"> 
   <a href="mailto:richary7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -29,7 +31,7 @@
 
 💬 Ask me about **MySQL, React, Firebase... or anything [here](https://github.com/AntonioLaurance/AntonioLaurance/issues)**
 
-⚡ Fun fact **The characters of Rick & Morty are inspired in the protagonists of Back to the Future**
+⚡ Phase **Open posibilite**
 
 
 
