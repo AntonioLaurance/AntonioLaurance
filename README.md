@@ -29,7 +29,7 @@
  
  🌱 I’m currently learning **Java, SpringBoot, AWS, TypeScript, React**
 
- 💬 Ask me about **MySQL, React, Firebase... or anything [here](https://github.com/AntonioLaurance/AntonioLaurance/issues)**
+ 💬 Ask me about **MySQL, React, Firebase... or anything [here](https://github.com/AntonioLaurance/AntonioLaurance/discussions)**
 
  
 
