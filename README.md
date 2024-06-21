@@ -64,9 +64,66 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,mui,github,figma,tailwind,git,spring,flask,firebase,matlab" />
-    <img src="https://skillicons.dev/icons?i=html,css,typescript,python,java,c,cpp,swift,mysql,r,latex" /><br>
-    <img src="https://skillicons.dev/icons?i=django,anaconda,docker,vercel,vim,vscode,idea,pycharm,aws,azure,fastapi" /><br>
+    <div>
+        <p align="left"><b>Programming languages:</b></p>
+        <img align="left" src="https://skillicons.dev/icons?i=python,java,c,cpp,swift,r,matlab" /><br><br>
+        <p></p>
+    </div>
+    <div>
+        <p align="left"><b>Web development:</b></p>
+        <img align="left" src="https://skillicons.dev/icons?i=html,css,typescript,nginx,yarn,nodejs,react,django,mui,tailwindcss,jest,svg" /><br><br>
+        <p></p>
+    </div>
+    <div>
+        <p align="left"><b>API development:</b></p>
+        <img align="left" src="https://skillicons.dev/icons?i=spring,fastapi,flask,django,maven,hibernate,postman" /><br><br>
+        <p></p>
+    </div>
+    <div>
+        <p align="left"><b>Databases:</b></p>
+        <img align="left" src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" /><br><br>
+        <p></p>
+    </div>
+    <div>
+        <p align="left"><b>Deployment:</b></p>
+        <img align="left" src="https://skillicons.dev/icons?i=docker,vercel" /><br><br>
+        <p></p>
+    </div>
+    <div>
+        <p align="left"><b>Version control:</b></p>
+        <img align="left" src="https://skillicons.dev/icons?i=git,github" /><br><br>
+        <p></p>
+    </div>
+    <div>
+        <p align="left"><b>Cloud services:</b></p>
+        <img align="left" src="https://skillicons.dev/icons?i=aws,azure" /><br><br>
+        <p></p>
+    </div>
+    <div>
+        <p align="left"><b>Virtual environment:</b></p>
+        <img align="left" src="https://skillicons.dev/icons?i=anaconda" /><br><br>
+        <p></p>
+    </div>
+    <div>
+        <p align="left"><b>Markup languages:</b></p>
+        <img align="left" src="https://skillicons.dev/icons?i=html,latex" /><br><br>
+        <p></p>
+    </div>
+    <div>
+        <p align="left"><b>IDEs:</b></p>
+        <img align="left" src="https://skillicons.dev/icons?i=idea,pycharm,replit" /><br><br>
+        <p></p>
+    </div>
+    <div>
+        <p align="left"><b>Editors:</b></p>
+        <img align="left" src="https://skillicons.dev/icons?i=vscode,vim" /><br><br>
+        <p></p>
+    </div>
+    <div>
+        <p align="left"><b>UI design:</b></p>
+        <img align="left" src="https://skillicons.dev/icons?i=figma" /><br><br>
+        <p></p>
+    </div>
 </div>
 
 <br/>
