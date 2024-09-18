@@ -25,15 +25,15 @@
 
 <div align="center">
  
-🔭 I’m currently development a project for Contact Centers at **ITESM CCM**
+⚙️ I’m currently development a project to get insights from a dataset
   
-🌱 I’m currently learning **Java, SpringBoot, AWS, TypeScript, React**
+🧠 I’m currently learning **AI, Scikit Learn, Neural Networks, NLP**
 
 💬 Ask me about **MySQL, React, Firebase... or anything [here](https://github.com/AntonioLaurance/AntonioLaurance/discussions)**
 
 📱 My favorite technologies are **Tkinter, React, Firebase, Vercel, Git** 
 
-📚 I'm interested learning more about **AI, Blockchain, Quantum Computation**
+📚 I'm interested learning more about **AI, Blockchain, Quantum Computing**
 
 
 🦄 My favorite programming paradigms are 🦄
