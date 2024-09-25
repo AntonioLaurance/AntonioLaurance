@@ -27,7 +27,7 @@
  
 ⚙️ I’m currently development a project to get insights from a dataset
   
-🧠 I’m currently learning **AI, Scikit Learn, Neural Networks, NLP**
+🧠 I’m currently learning **AI, Neural Networks, NLP, Word Embedding**
 
 💬 Ask me about **MySQL, React, Firebase... or anything [here](https://github.com/AntonioLaurance/AntonioLaurance/discussions)**
 
