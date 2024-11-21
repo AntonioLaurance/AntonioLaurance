@@ -25,7 +25,7 @@
 
 <div align="center">
  
-⚙️ I’m currently development a project to manage better an inventary using AI
+⚙️ I’m currently development a project to manage better the Bimbo inventary using AI
   
 🧠 I’m currently learning **AI, Neural Networks, NLP, Word Embedding**
 
