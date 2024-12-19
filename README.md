@@ -81,7 +81,7 @@
     </div>
     <div>
         <p align="left"><b>Databases:</b></p>
-        <img align="left" src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" /><br><br>
+        <img align="left" src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase" /><br><br>
         <p></p>
     </div>
     <div>
