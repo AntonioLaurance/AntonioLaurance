@@ -96,7 +96,7 @@
     </div>
     <div>
         <p align="left"><b>Cloud services:</b></p>
-        <img align="left" src="https://skillicons.dev/icons?i=aws,azure" /><br><br>
+        <img align="left" src="https://skillicons.dev/icons?i=aws,gcp,azure" /><br><br>
         <p></p>
     </div>
     <div>
