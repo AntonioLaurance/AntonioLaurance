@@ -25,9 +25,9 @@
 
 <div align="center">
  
-⚙️ I’m currently development a backend part of a web system for EcoVolt team
+⚙️ I’m currently development the backend part of a web system for EcoVolt team
   
-🧠 I’m currently learning **AI, Neural Networks, NLP, Word Embedding**
+🧠 I’m currently learning **Express, JWT, Paypal API, MongoDB, JavaScript**
 
 💬 Ask me about **MySQL, React, Firebase... or anything [here](https://github.com/AntonioLaurance/AntonioLaurance/discussions)**
 
