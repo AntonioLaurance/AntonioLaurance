@@ -11,6 +11,10 @@
   <a href="mailto:richary7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+
+  <a href="https://www.linkedin.com/in/ricardo-campos-luna">
+      <img src="https://img.shields.io/badge/LikedIn-blue?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
     
   <a href="https://replit.com/@AntonioLaurance">
     <img src="https://img.shields.io/badge/Replit-142e54?style=for-the-badge&logo=replit&logoColor=red" />
