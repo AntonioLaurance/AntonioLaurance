@@ -29,9 +29,9 @@
 
 <div align="center">
  
-⚙️ I’m currently development the backend part of a web system for EcoVolt team
+⚙️ I’m currently development Machine Learning models for Sentiment Analysis
   
-🧠 I’m currently learning **Express, JWT, Paypal API, MongoDB, JavaScript**
+🧠 I’m currently learning **Matplotlib, Scikit Learn, Tensorflow**
 
 💬 Ask me about **MySQL, React, Firebase... or anything [here](https://github.com/AntonioLaurance/AntonioLaurance/discussions)**
 
