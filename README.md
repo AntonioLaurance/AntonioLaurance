@@ -31,7 +31,7 @@
  
 ⚙️ I’m currently development Machine Learning models for Sentiment Analysis
   
-🧠 I’m currently learning **Matplotlib, Scikit Learn, Tensorflow**
+🧠 I’m currently learning **Data Structures and Algorithms, Dynamic Programming, Unit Testing**
 
 💬 Ask me about **MySQL, React, Firebase... or anything [here](https://github.com/AntonioLaurance/AntonioLaurance/discussions)**
 
