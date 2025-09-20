@@ -128,6 +128,11 @@
         <img align="left" src="https://skillicons.dev/icons?i=figma" /><br><br>
         <p></p>
     </div>
+    <div>
+        <p align="left"><b>AI:</b></p>
+        <img align="left" src="https://skillicons.dev/icons?i=sklearn" /><br><br>
+        <p></p>
+    </div>
 </div>
 
 <br/>
